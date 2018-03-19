@@ -1,5 +1,6 @@
 import turtle
-
+import os
+# calling screen 
 window=turtle.Screen()
 window.bgcolor("red")
 
